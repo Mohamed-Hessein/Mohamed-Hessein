@@ -54,7 +54,7 @@
         <div class="meta">
           <h1 id="fullname">Mohamed Hussein</h1>
           <div class="handle" id="handle">@MohamedHussein</div>
-          <p class="bio" id="bio">مطور تطبيقات — هنا حط جملة قصيرة عن نفسك (مثلاً: I build mobile apps with Flutter)</p>
+          <p class="bio" id="bio"> flutter devlepor </p>
           <div class="badges">
             <div class="badge">Open to work</div>
             <div class="badge">🇪🇬 Cairo</div>
@@ -71,16 +71,6 @@
           <div class="tool">Git</div>
         </div>
       </section>
-
-      <section class="panel" style="margin-top:14px">
-        <h3>📂 Past Works — المشاريع المميزة</h3>
-        <div class="pastworks-list" id="pastworks">
-          <div class="project">
-          <img src="ttps://github.com/user-attachments/assets/ab9c3115-4880-48af-b9be-816ff16694da" alt="Marketiapp" width="200" />
-            <div class="info">
-              <div class="title">Marketia</div>
-              <div class="desc"># 🛒 E-commerce Store App
-
 A simple **E-commerce mobile application** built with **Flutter & Dart**, featuring clean UI, smooth navigation, and API integration for dynamic product data.
 
 ### ✨ Main Features
