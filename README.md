@@ -1,6 +1,5 @@
 <!doctype html>
-
-<html lang="ar" dir="rtl">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -19,28 +18,17 @@
     .handle{color:var(--muted);margin-top:6px}
     .bio{margin-top:12px;color:#cfe6f3}
     .badges{margin-top:14px;display:flex;gap:8px;flex-wrap:wrap}
-    .badge{background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:999px;font-size:13px;border:1px solid rgba(255,255,255,0.02)}.grid{display:grid;grid-template-columns:1fr 320px;gap:20px;margin-top:22px}
-.panel{background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent);padding:18px;border-radius:10px;border:1px solid rgba(255,255,255,0.03)}
-
-.tools{display:flex;gap:12px;flex-wrap:wrap}
-.tool{display:flex;align-items:center;gap:8px;padding:8px 10px;border-radius:8px;background:rgba(255,255,255,0.02);font-size:14px}
-.tool svg{width:18px;height:18px;opacity:0.95}
-
-.pastworks-list{display:flex;flex-direction:column;gap:12px;margin-top:8px}
-.project{display:flex;gap:12px;align-items:center;padding:12px;border-radius:10px;background:linear-gradient(180deg, rgba(255,255,255,0.01), transparent);border:1px solid rgba(255,255,255,0.02)}
-.project img{width:76px;height:56px;object-fit:cover;border-radius:6px}
-.project .info{flex:1}
-.project .title{font-weight:600}
-.project .desc{color:var(--muted);font-size:13px;margin-top:6px}
-.socials{display:flex;flex-direction:column;gap:8px}
-.social-row{display:flex;gap:8px;align-items:center}
-.social-row a{color:#cfe6f3;text-decoration:none}
-
-.edit-hint{font-size:12px;color:var(--muted);margin-top:8px}
-
-/* responsive */
-@media (max-width:900px){.grid{grid-template-columns:1fr}}
-
+    .badge{background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:999px;font-size:13px;border:1px solid rgba(255,255,255,0.02)}
+    .grid{display:grid;grid-template-columns:1fr 320px;gap:20px;margin-top:22px}
+    .panel{background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent);padding:18px;border-radius:10px;border:1px solid rgba(255,255,255,0.03)}
+    .tools{display:flex;gap:12px;flex-wrap:wrap}
+    .tool{display:flex;align-items:center;gap:8px;padding:8px 10px;border-radius:8px;background:rgba(255,255,255,0.02);font-size:14px}
+    .tool svg{width:18px;height:18px;opacity:0.95}
+    .socials{display:flex;flex-direction:column;gap:8px}
+    .social-row{display:flex;gap:8px;align-items:center}
+    .social-row a{color:#cfe6f3;text-decoration:none}
+    footer{margin-top:18px;text-align:center;color:var(--muted);font-size:13px}
+    @media (max-width:900px){.grid{grid-template-columns:1fr}}
   </style>
 </head>
 <body>
@@ -48,77 +36,77 @@
     <div class="card">
       <header>
         <div class="avatar">
-          <!-- GitHub avatar (auto) -->
           <img src="https://github.com/Mohamed-Hessein.png" alt="avatar" />
         </div>
         <div class="meta">
           <h1 id="fullname">Mohamed Hussein</h1>
           <div class="handle" id="handle">@MohamedHussein</div>
-          <p class="bio" id="bio"> flutter devlepor </p>
+          <p class="bio" id="bio">Flutter Developer</p>
           <div class="badges">
             <div class="badge">Open to work</div>
             <div class="badge">🇪🇬 Cairo</div>
           </div>
         </div>
-      </header><div class="grid">
-    <div>
-      <section class="panel">
-        <h3>🛠 الأدوات</h3>
-        <div class="tools" id="tools">
-          <div class="tool">VS Code</div>
-          <div class="tool">Flutter</div>
-          <div class="tool">Dart</div>
-          <div class="tool">Git</div>
-        </div>
-      </section>
-A simple **E-commerce mobile application** built with **Flutter & Dart**, featuring clean UI, smooth navigation, and API integration for dynamic product data.
+      </header>
 
-### ✨ Main Features
-- Browse products by **Categories** and **Brands**  
-- View detailed **Product Profiles**  
-- Add items to **Favorites** and **Cart**  
-- **Cart Details** with total calculation  
-- **Dark Mode** support for better user experience  
-- **API integration** to fetch real-time product data  
-
-This project was developed during my training as a practical exercise to explore **Flutter app development, API usage, and modern UI/UX design**..</div>
+      <div class="grid">
+        <div>
+          <section class="panel">
+            <h3>🛠 Tools</h3>
+            <div class="tools" id="tools">
+              <div class="tool">
+                <!-- VS Code icon -->
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18" height="18" />
+                VS Code
+              </div>
+              <div class="tool">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="18" height="18" />
+                Flutter
+              </div>
+              <div class="tool">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="18" height="18" />
+                Dart
+              </div>
+              <div class="tool">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" height="18" />
+                Git
+              </div>
             </div>
-            <div>
-              <a href="https://github.com/Mohamed-Hessein">GitHub</a> |
-           
+          </section>
+
+          <section class="panel" style="margin-top:14px">
+            <h3>📱 Project: E-commerce App</h3>
+            <p>
+              A simple <b>E-commerce mobile application</b> built with <b>Flutter & Dart</b>, featuring clean UI,
+              smooth navigation, and API integration for dynamic product data.
+            </p>
+            <ul>
+              <li>Browse products by Categories & Brands</li>
+              <li>View detailed Product Profiles</li>
+              <li>Favorites & Cart with details</li>
+              <li>Dark Mode support</li>
+              <li>API integration for real-time data</li>
+            </ul>
+          </section>
+        </div>
+
+        <aside>
+          <div class="panel">
+            <h3>🔗 Socials</h3>
+            <div class="socials">
+              <div class="social-row">📧 <a href="mailto:mohamedkareem3345@gmail.com">mohamedkareem3345@gmail.com</a></div>
+              <div class="social-row">🐙 <a href="https://github.com/Mohamed-Hessein" target="_blank">GitHub</a></div>
+              <div class="social-row">💼 <a href="https://www.linkedin.com/in/mohamed-mohamed-hussin" target="_blank">LinkedIn</a></div>
+            </div>
+            <div style="margin-top:12px">
+              <h4>📈 GitHub stats</h4>
+              <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hessein&show_icons=true&theme=dark" alt="stats" style="width:100%;border-radius:8px;margin-top:8px;border:1px solid rgba(255,255,255,0.03)" />
             </div>
           </div>
-        </div>
-      </section>
+        </aside>
+      </div>
     </div>
-
-    <aside>
-      <div class="panel">
-        <h3>🔗 التواصل والسوشيال</h3>
-        <div class="socials">
-          <div class="social-row">📧 <a href="mailto:mohamedkareem3345@gmail.com">mohamedkareem3345@gmail.com</a></div>
-          <div class="social-row">🐙 <a href="https://github.com/Mohamed-Hessein" target="_blank">github.com/Mohamed-Hessein</a></div>
-          <div class="social-row">🔗 <a href="https://www.linkedin.com/in/mohamed-mohamed-hussin">LinkedIn</a></div>
-        </div>
-
-        <div style="margin-top:12px">
-          <h4>📈 GitHub stats (اختياري)</h4>
-          <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hessein&show_icons=true&theme=dark" alt="stats" style="width:100%;border-radius:8px;margin-top:8px;border:1px solid rgba(255,255,255,0.03)" />
-        </div>
-      </div>
-
-      <div class="panel" style="margin-top:14px">
-        <h3>📎 روابط سريعة</h3>
-        <ul style="margin:8px 0 0 0;padding:0 12px;color:var(--muted)">
-       
-        </ul>
-      </div>
-    </aside>
-  </div>
-
-  <footer style="margin-top:18px;text-align:center;color:var(--muted);font-size:13px">هذا الملف HTML قابل للتعديل — احفظه كـ <code>index.html</code> وارفعه لأي استضافة أو افتحه محليًا.</footer>
-</div>
-
+    <footer>This HTML profile card is editable — save as <code>index.html</code> and host anywhere.</footer>
   </div>
 </body>
 </html>
