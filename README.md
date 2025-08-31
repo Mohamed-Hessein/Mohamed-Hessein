@@ -30,28 +30,6 @@
 
 ---
 
-## 🌟 Featured Project
-
-### [Marketiapp](https://github.com/Mohamed-Hessein/Marketiapp)
-
-<p align="center">
-  <img src="https://github.com/Mohamed-Hessein/Mohamed-Hessein/blob/main/assets/Marktia.jpg" width="500" alt="Marketiapp Screenshot">
-</p>
-
-**Description:** A marketing app to manage products and sales efficiently.  
-
-**Features:**  
-- [Cart](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FCart)  
-- [Favorite](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FFavorite)  
-- [Authentication (Auth)](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FAuth)  
-- [API integration](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FApi)  
-- [Brands](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FBrands)  
-- [Home](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FHome)  
-- [Details](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2Fdetails)  
-- [Profile](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FProfile)  
-- Dark Mode  
-
----
 
 ## 📊 GitHub Stats
 
