@@ -12,6 +12,9 @@
   <a href="https://github.com/Mohamed-Hessein">
     <img src="https://img.shields.io/badge/GitHub-Mohamed--Hessein-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
   </a>
+  <a href="https://www.linkedin.com/in/mohamed-mohamed-hussin">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Hussein-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+  </a>
 </p>
 
 ---
@@ -29,7 +32,7 @@
 
 ## 🌟 Featured Project
 
-### [Marketiapp](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app/lib)
+### [Marketiapp](https://github.com/Mohamed-Hessein/Marketiapp)
 
 <p align="center">
   <img src="https://github.com/Mohamed-Hessein/Mohamed-Hessein/blob/main/assets/Marktia.jpg" width="500" alt="Marketiapp Screenshot">
@@ -67,5 +70,8 @@
   </a>
   <a href="https://github.com/Mohamed-Hessein">
     <img src="https://img.shields.io/badge/GitHub-Mohamed--Hessein-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-mohamed-hussin">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Hussein-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
   </a>
 </p>
