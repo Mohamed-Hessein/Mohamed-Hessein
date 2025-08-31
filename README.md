@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tools & Skills
 
 <p align="center">
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="20">
@@ -33,19 +33,29 @@
 
 <p align="center">
   <img src="https://github.com/Mohamed-Hessein/Mohamed-Hessein/blob/main/assets/Marktia.jpg" width="500" alt="Marketiapp Screenshot">
-  <br>
-  <i>📌 This is your project image</i>
 </p>
 
 **Description:** A marketing app to manage products and sales efficiently.  
+
 **Features:**  
-- Cart  
-- Favorite  
-- Authentication (Auth)  
-- API integration  
-- Brands  
-- Home screen  
+- [Cart](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FCart)  
+- [Favorite](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FFavorite)  
+- [Authentication (Auth)](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FAuth)  
+- [API integration](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FApi)  
+- [Brands](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FBrands)  
+- [Home](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FHome)  
+- [Details](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2Fdetails)  
+- [Profile](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app%2Flib%2FFeatures%2FProfile)  
 - Dark Mode  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hessein&show_icons=true&theme=radical" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hessein&layout=compact&theme=radical" alt="Top Languages" height="160">
+</p>
 
 ---
 
