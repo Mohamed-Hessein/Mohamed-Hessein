@@ -1,17 +1,49 @@
-<!doctype html>
-<html lang="en" dir="ltr">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Mohamed Hussein — Profile</title>
-  <style>
-    :root{--bg:#0f1724;--card:#0b1220;--muted:#94a3b8;--accent:#0ea5a4;--blue:#3b82f6}
-    *{box-sizing:border-box;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial}
-    body{margin:0;background:linear-gradient(180deg,#071125 0%, #051428 100%);color:#e6eef6;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:28px}
-    .wrap{width:980px;max-width:100%;}
-    .card{background:radial-gradient(1200px 600px at 10% 10%, rgba(14,165,164,0.06), transparent), var(--card);border-radius:14px;padding:28px;box-shadow:0 8px 30px rgba(2,6,23,0.7)}
-    header{display:flex;gap:20px;align-items:center}
-    .avatar{width:110px;height:110px;border-radius:14px;overflow:hidden;flex:0 0 110px;border:2px solid rgba(255,255,255,0.06)}
+    # 👋 Mohamed Hussein
+
+مرحباً، أنا **Mohamed Hussein**، مطور مهتم بـ **Flutter، Dart، Git، و VSCode**.  
+هذا الريبو يضم مشاريع ومعلومات عني وروابط للتواصل معي.
+
+---
+
+## 🛠️ الأدوات المستخدمة
+<p>
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 🌟 المشاريع المميزة
+
+### [Marketiapp](https://github.com/Mohamed-Hessein/Marketiapp)
+![Marketiapp Screenshot](https://user-images.githubusercontent.com/123456789/abcdefg.png)
+
+**وصف:** تطبيق تسويقي لإدارة المنتجات والمبيعات بسهولة.  
+- يحتوي على: **Cart، Favorite، Auth، API، Brands، Home**.  
+- واجهة سهلة الاستخدام ومتوافق مع **Android و iOS**.  
+
+---
+
+## 📂 روابط سريعة للواجهة
+- [🏠 Home](#home)  
+- [🏷️ Brands](#brands)  
+- [🛒 Cart](#cart)  
+- [⭐ Favorite](#favorite)  
+- [🔒 Auth](#auth)  
+- [🔌 API](#api)  
+
+---
+
+## 📫 تواصل معي
+- البريد الإلكتروني: **mohamedkareem3345@gmail.com**  
+- GitHub: [Mohamed-Hessein](https://github.com/Mohamed-Hessein)  
+
+---
+
+## 🎨 Dark Mode
+تدعم المشاريع الوضع الداكن لجعل الواجهة مريحة للعينين..avatar{width:110px;height:110px;border-radius:14px;overflow:hidden;flex:0 0 110px;border:2px solid rgba(255,255,255,0.06)}
     .avatar img{width:100%;height:100%;object-fit:cover;display:block}
     .meta{flex:1}
     h1{margin:0;font-size:26px;font-weight:700;color:var(--blue);overflow:hidden;white-space:nowrap;border-right:3px solid var(--blue);width:0;animation:typing 3s steps(20,end) forwards, blink 0.75s step-end infinite}
