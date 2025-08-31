@@ -32,10 +32,9 @@
 ### [Marketiapp](https://github.com/Mohamed-Hessein/Marketiapp/tree/main/app/lib)
 
 <p align="center">
-  <!-- Replace the src with your project image or video -->
-  <img src="[assets/marketiapp.png](https://github.com/Mohamed-Hessein/Mohamed-Hessein/blob/main/assets/Marktia.jpg)" width="500" alt="Marketiapp Screenshot">
+  <img src="https://github.com/Mohamed-Hessein/Mohamed-Hessein/blob/main/assets/Marktia.jpg" width="500" alt="Marketiapp Screenshot">
   <br>
-  <i>📌 Replace this image with your project screenshot or video</i>
+  <i>📌 This is your project image</i>
 </p>
 
 **Description:** A marketing app to manage products and sales efficiently.  
