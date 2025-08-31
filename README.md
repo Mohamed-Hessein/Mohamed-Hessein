@@ -33,7 +33,7 @@
 
 <p align="center">
   <!-- Replace the src with your project image or video -->
-  <img src="assets/marketiapp.png" width="500" alt="Marketiapp Screenshot">
+  <img src="[assets/marketiapp.png](https://github.com/Mohamed-Hessein/Mohamed-Hessein/blob/main/assets/Marktia.jpg)" width="500" alt="Marketiapp Screenshot">
   <br>
   <i>📌 Replace this image with your project screenshot or video</i>
 </p>
